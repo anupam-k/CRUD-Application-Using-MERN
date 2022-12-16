@@ -13,7 +13,7 @@ function App() {
   const [userData, setUserData] = useState(null);
   const fetchUsersData = async () => {
     const resp = await axios.get(`${BASE_URL}/getUsers`);
-
+    console.log(resp);
     setUserData(resp.data.users);
   };
   useEffect(() => {
