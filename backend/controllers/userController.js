@@ -1,7 +1,7 @@
 const User = require("../model/userModel");
 
 exports.home = (req, res) => {
-  res.send("Hello World");
+  res.send("Hello From CRUD Backed!!");
 };
 
 exports.aboutus = (req, res) => {
