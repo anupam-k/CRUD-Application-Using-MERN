@@ -15,6 +15,7 @@
 - **_Mongodb (Database)_**
 - **_React JS (Frontend Library)_**
 
+# _Planning_
 ## _Application Architechture_
 ![image](https://user-images.githubusercontent.com/91872149/203732900-cd8124b1-76da-4302-afc2-f40a9b645d2b.png)
 
